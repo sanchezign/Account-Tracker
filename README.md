@@ -1,4 +1,4 @@
-# Tracker Ingresos Gastos
+# Tracker de ingresos y gastos. 
 
 ![Descripción de la imagen](./src/assets/Screenshot%202024-10-10%20150940.png)
 
