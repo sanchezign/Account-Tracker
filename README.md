@@ -1,4 +1,4 @@
-# Tracker de ingresos y gastos. 
+# Account-Tracker. 
 
 ![Descripción de la imagen](./src/assets/Screenshot%202024-10-10%20150940.png)
 
