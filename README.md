@@ -28,4 +28,4 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/tracker-ingresos-gastos.git
+   git clone https://github.com/tuusuario/Account-Tracker.git
